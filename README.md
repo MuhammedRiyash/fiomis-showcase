@@ -33,9 +33,10 @@ an Astro storefront on a Medusa v2 commerce back end with a custom admin. I desi
 
 ## Status
 
-In active development since June 2026 (140+ commits). Not yet launched.
+In active development since June 2026 (139 commits on the main branch). Not yet launched.
 
 ---
-In active development since June 2026 (139 commits on the main branch). Not yet launched.
+
 **Muhammed Riyash J** · Senior Full-Stack Developer · Bengaluru, India
+
 [Portfolio](https://md-riyash-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammedriyash) · [GitHub](https://github.com/MuhammedRiyash)
